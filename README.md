@@ -1,4 +1,5 @@
-版本：0.14.2
+- python 版本：3.6.0
+- skimage 版本：0.14.2
 
 子模块名称   |  主要实现功能
 -------------|-------------
@@ -24,7 +25,7 @@ viewer       | 示例数据
 
 ### skimage 大纲
 
-#### 1. [图像读写与查看【模块:data,io】](https://note.youdao.com/)
+#### 1. [图像读写与查看【模块:data,io】](https://github.com/devshilei/skimage_code/tree/master#%E5%9B%BE%E5%83%8F%E8%AF%BB%E5%86%99%E4%B8%8E%E6%9F%A5%E7%9C%8B)
 
 #### 2. [像素操作【模块:draw】](https://note.youdao.com/)
 
